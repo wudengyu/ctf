@@ -20,5 +20,8 @@ Easy Python Decompiler v1.3.2 Python反编译工具，可以反编译.pyc文件�
 工具：1.RsaCtfTool https://github.com/Ganapati/RsaCtfTool.git 从名字就看得出来，解题方便，实际用来解密功能可能要差一点。
 2.CTF-RSA-tool https://github.com/3summer/CTF-RSA-tool.git 跟上一个差不多。
 3.ECCTOOL 椭圆密码工具
+4.RSATool2 生成p、q，计算/分解N，计算d等。
+5.yafu 主要用来分解质因数，分解速度比RSATool2快多了，http://factordb.com/ 这个网站不是分解而是查询，所以快。
+6.Python包，RSA库，pycryptodome可以到https://pypi.org/ 下载。
 
 ## 六、MOBILE
