@@ -16,6 +16,7 @@ Brup Suite 神器，有企业版、专业版和社区版，社区版是免费的
 sqlmap SQL注入工具
 ## 四、REVERSE（逆向）
 Easy Python Decompiler v1.3.2 Python反编译工具，可以反编译.pyc文件。
+Luyten 0.5.4 Java Decompiler Gui for Procyon
 ## 五、CRYPTO（加密）
 工具：1.RsaCtfTool https://github.com/Ganapati/RsaCtfTool.git 从名字就看得出来，解题方便，实际用来解密功能可能要差一点。
 2.CTF-RSA-tool https://github.com/3summer/CTF-RSA-tool.git 跟上一个差不多。
@@ -23,5 +24,6 @@ Easy Python Decompiler v1.3.2 Python反编译工具，可以反编译.pyc文件�
 4.RSATool2 生成p、q，计算/分解N，计算d等。
 5.yafu 主要用来分解质因数，分解速度比RSATool2快多了，http://factordb.com/ 这个网站不是分解而是查询，所以快。
 6.Python包，RSA库，pycryptodome可以到https://pypi.org/ 下载。
-
+https://quipqiup.com/ 一个在线词频分析网站
+https://cmd5.com/ 能根据各种常见MD5加密的十六进制串找出有意义的字符串
 ## 六、MOBILE
