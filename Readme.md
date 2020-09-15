@@ -13,7 +13,12 @@ QR Research二维码识别工具，可以扫图片文件，也可以扫屏幕，
 IDA Pro 著名的反编译工具，有Free、Home、PRO三个版本，但是显然Pro最实用。
 ## 三、WEB
 Brup Suite 神器，有企业版、专业版和社区版，社区版是免费的，但是有限制比如爆破时速度就会受限，2020.4版以后需JRE 9，Windows下安装的话会自带环境，所以几乎不影响，但是破解版不带环境就会有影响。
+HackBar Firefox和chrome浏览器插件，方便重发请求。https://hackbar.herokuapp.com/
 sqlmap SQL注入工具
+dirmap、dirsearch 网站目录扫描源码包，好像dirsearch效果要好一些
+githack 下载网站.git目录
+Metasploit Framework：这是一个免费的、开源的渗透测试框架，当前稳定版本是使用Ruby 语言编写的。
+upload-labs https://github.com/c0ny1/upload-labs 练习库。
 ## 四、REVERSE（逆向）
 Easy Python Decompiler v1.3.2 Python反编译工具，可以反编译.pyc文件。
 Luyten 0.5.4 Java Decompiler Gui for Procyon

